@@ -1,4 +1,6 @@
-## Hi there 👋
+## oi 👋
+
+🤔 Estou procurando ajuda para começar a usar o github
 
 <!--
 **erickvento54/erickvento54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
